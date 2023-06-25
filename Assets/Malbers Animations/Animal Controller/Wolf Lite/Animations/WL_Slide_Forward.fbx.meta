@@ -1,8 +1,11 @@
 fileFormatVersion: 2
 guid: 4516dd916a1cefe4cb8c871291c8d95b
 ModelImporter:
-  serializedVersion: 21300
-  internalIDToNameTable: []
+  serializedVersion: 22102
+  internalIDToNameTable:
+  - first:
+      74: 4159462109394552242
+    second: WL_Slide_Forward
   externalObjects: {}
   materials:
     materialImportMode: 0
@@ -172,6 +175,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 2
@@ -198,14 +202,13 @@ ModelImporter:
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 08e48789449aae64095cc114539cb217,
-    type: 3}
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 08e48789449aae64095cc114539cb217, type: 3}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
   avatarSetup: 2
   addHumanoidExtraRootOnlyWhenUsingAvatar: 0
-  remapMaterialsIfMaterialImportModeIsNone: 1
+  importBlendShapeDeformPercent: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

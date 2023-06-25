@@ -1,8 +1,11 @@
 fileFormatVersion: 2
 guid: a40563385ceae384ea1e0a686cf5a9ed
 ModelImporter:
-  serializedVersion: 21300
-  internalIDToNameTable: []
+  serializedVersion: 22102
+  internalIDToNameTable:
+  - first:
+      74: 2101460605964276236
+    second: S_Balance_AgainstWall_Idle_Left
   externalObjects: {}
   materials:
     materialImportMode: 0
@@ -125,6 +128,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 2
@@ -867,14 +871,13 @@ ModelImporter:
     hasTranslationDoF: 1
     hasExtraRoot: 1
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d9a8fb1864c033e4b990da223ac23ead,
-    type: 3}
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d9a8fb1864c033e4b990da223ac23ead, type: 3}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
   avatarSetup: 2
   addHumanoidExtraRootOnlyWhenUsingAvatar: 0
-  remapMaterialsIfMaterialImportModeIsNone: 1
+  importBlendShapeDeformPercent: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
