@@ -1956,6 +1956,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -2769,7 +2770,7 @@ MonoBehaviour:
   m_VerticalScrollbar: {fileID: 3747785061966569587}
   m_HorizontalScrollbarVisibility: 2
   m_VerticalScrollbarVisibility: 2
-  m_HorizontalScrollbarSpacing: -2.5733635
+  m_HorizontalScrollbarSpacing: -0.48821947
   m_VerticalScrollbarSpacing: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2820,6 +2821,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 8010762616963736912}
     m_Modifications:
     - target: {fileID: 3985355149291856201, guid: 51789f9a4ea0baa06a66c3a5afb3200c, type: 3}
@@ -2979,6 +2981,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 51789f9a4ea0baa06a66c3a5afb3200c, type: 3}
 --- !u!224 &8010762616802867656 stripped
 RectTransform:
@@ -3054,6 +3057,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 8010762616963736912}
     m_Modifications:
     - target: {fileID: 1912343829561864, guid: b8b1fb7775b90a14692b4295d424589f, type: 3}
@@ -3149,6 +3153,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: b8b1fb7775b90a14692b4295d424589f, type: 3}
 --- !u!224 &7797592519817110587 stripped
 RectTransform:
@@ -3160,6 +3165,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 8010762616963736912}
     m_Modifications:
     - target: {fileID: 1168585467449506, guid: 1700fc7c9d792b24d8c26c844c73e953, type: 3}
@@ -3255,6 +3261,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 1700fc7c9d792b24d8c26c844c73e953, type: 3}
 --- !u!224 &7797390357637618539 stripped
 RectTransform:
