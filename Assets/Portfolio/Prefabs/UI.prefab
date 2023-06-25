@@ -2770,7 +2770,7 @@ MonoBehaviour:
   m_VerticalScrollbar: {fileID: 3747785061966569587}
   m_HorizontalScrollbarVisibility: 2
   m_VerticalScrollbarVisibility: 2
-  m_HorizontalScrollbarSpacing: -0.48821947
+  m_HorizontalScrollbarSpacing: -0.4406038
   m_VerticalScrollbarSpacing: 0
   m_OnValueChanged:
     m_PersistentCalls:
