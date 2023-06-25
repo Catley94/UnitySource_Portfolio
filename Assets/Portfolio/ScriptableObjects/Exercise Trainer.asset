@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab4f6fb29f3b02f18820f55c867096b, type: 3}
+  m_Name: Exercise Trainer
+  m_EditorClassIdentifier: 
+  image: {fileID: 0}
+  description: 'The idea of creating this app was born from starting to run in my
+    personal time, I needed an app which allowed me to do timed intervals of walking,
+    running and sprinting. I found an incredible app on Google Play which allowed
+    me to do this, however was hugely limited as I was only able to add a certain
+    number of exercises per set before I had to pay for their subscription.
+
+
+    I
+    felt this was a complete ripoff, so used this opportunity to start creating my
+    own App.
+
+
+    With this app, you can create as many sets (which include as many
+    exercises as you want within each set) as you like, you have the option of counting
+    in either seconds or minutes (for the ease of saying 10 seconds vs 60 seconds)
+    and when you start the countdown, gives a nice big timer with text to say how
+    long you have left of this exercise, what exercise you are currently doing, what
+    set you are currently on, and what is the total time left of all the set and
+    exercises.
+
+
+    Though this app was inteded for exercise, you could use this
+    in multiple situations, as it is quite simply, an advanced timer application.
+
+
+    Through
+    personal use, I have found improvements that need to be made, such as adding
+    a sound when the exercise changes (in this example, I was running and didn''t
+    notice visually that the exercise had changed to walk, and vice versa, without
+    keeping a hawk eye on the app at all times), therefore this app is still a work-in-progress
+    however is at the point of being Version 1.
+
+
+    I do have a standalone .apk
+    which I have made within Android Studio (using the ionic API capacitor), so can
+    pass this on through email or shared link, it is my hope in the near future I
+    may publish this on Google Play so others can enjoy the benefit this app can
+    bring. '

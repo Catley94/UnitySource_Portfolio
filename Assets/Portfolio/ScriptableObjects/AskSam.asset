@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab4f6fb29f3b02f18820f55c867096b, type: 3}
+  m_Name: AskSam
+  m_EditorClassIdentifier: 
+  image: {fileID: 0}
+  description: "This is a private repo, in order to view the code, you must ask for
+    permission by contacting me.\n \nAskSam is an SPA built with Vue (and Axios)
+    on the Frontend and NodeJS on the backend. \n\nThe purpose is for anyone to submit
+    a question on the front facing SPA (the user can submit as many questions as
+    they like in one session or multiple), which will both create a cookie on the
+    user's browser with the questionID (so it is able to keep track if the question
+    has been answered) and submits the question to the database (MongoDB). \n\nThere
+    is also another SPA for 'internal' or 'staff' use, on this SPA it will display
+    all the unanswered questions in a list, the 'staff' member can click on any unanswered
+    question (sorted from oldest at the top, newest at the bottom) and answer it,
+    once answered it will update the database to mark this question as answered.
+    When the user visits the website, it will check the database with the questionID
+    in their cookie, if the question has been answered, it will update their page
+    with the question as 'Answered', they then may click and view the answer given. "

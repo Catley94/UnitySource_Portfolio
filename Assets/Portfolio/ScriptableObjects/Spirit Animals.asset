@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab4f6fb29f3b02f18820f55c867096b, type: 3}
+  m_Name: Spirit Animals
+  m_EditorClassIdentifier: 
+  image: {fileID: 0}
+  description: "This is a private repo, in order to view the code, you must ask for
+    permission by contacting me. \n\nSpirit Animals is an MMORPG which I am currently
+    creating, built in Unity, this game has been built from the ground up, this includes,
+    planning out a brief overview of the game, objective and story line, using best
+    practises whilst keeping in mind to prevent circle of dependencies, implementing
+    movement of the character, including animation for evolution, inventory system,
+    drop and pick up item system, system settings, stats for characters, attacking,
+    talking with NPCs, Questing and much more! "

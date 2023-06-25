@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab4f6fb29f3b02f18820f55c867096b, type: 3}
+  m_Name: Music Visualiser
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 9058354d6a7d0eccfbcde64aab223422, type: 3}
+  description: 'Inverted Wings use lines attached on a pulsing circle. Bass circles
+    will omit once volume exceeds certain amount. Currently only has one song hooked
+    up, however looking to improve this project in the future by connecting it to
+    Spotify.
+
+
+    This project was inspired by the old Windows Media player which
+    has inbuilt Music Visualisers.'

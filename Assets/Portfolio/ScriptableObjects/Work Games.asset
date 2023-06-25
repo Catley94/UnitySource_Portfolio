@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab4f6fb29f3b02f18820f55c867096b, type: 3}
+  m_Name: Work Games
+  m_EditorClassIdentifier: 
+  image: {fileID: 0}
+  description: 'Fireworks: This game has three fireworks that shoot up from the bottom
+    of window.innerHeight, they are all affected by ''gravity'' with a constant pull
+    to the floor, and are spawned with random speed values, so they all finish their
+    path at different points on the screen. Once the firework has reached the end
+    of its path, it will explode and create coloured particles (the colour is picked
+    at random, at spawn of firework), with a random number between a min/max value,
+    and there is a small chance that it will spawn a multicoloured firework. The
+    spread of the particles once they are spawned is also random, giving the image
+    of ''big'' and ''small'' fireworks.
+
+
+    Puzzle: This game uses its own shape
+    for the puzzle pieces using a custom path, depending on whether it is an edge
+    piece or not, it will appropriately give a flat side to either one or two sides
+    (depending if edge or corner piece). Once the grid has been made up, we overlay
+    an image which is cut up accordingly to the puzzle piece. When the puzzle piece
+    is interacted with (hovered over), the puzzle piece will move to it''s place
+    on the grid, and the next available puzzle pieces will be spawned in (note that
+    the puzzle pieces will only spawn in if they are the next available pieces),
+    once the puzzle is complete, the puzzle fades out and the original image fades
+    in.
+
+
+    Football: Simple game made within Unity, making use of invisible borders
+    (so the football cannot move outside of the pitch), a fixed camera of the pitch,
+    the mouse controls a ''pointer'' in game which them interacts with the ball,
+    affected by gravity as it has a rigidbody and a collider. Two goals either side
+    of the pitch which both have collission triggers attached and triggers a sound
+    and an image to appear when a goal has been made. UI Scoreboard updates when
+    goals are made and sounds play when the ball is hit and when the player can start
+    playing the game (starting whitle).
+
+    And more!'
